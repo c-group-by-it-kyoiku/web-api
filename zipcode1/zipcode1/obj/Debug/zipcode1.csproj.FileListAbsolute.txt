@@ -1,0 +1,15 @@
+C:\Users\林俊輝\Desktop\zipcode1\zipcode1\obj\Debug\zipcode1.csprojAssemblyReference.cache
+C:\Users\林俊輝\Desktop\zipcode1\zipcode1\obj\Debug\zipcode1.Form1.resources
+C:\Users\林俊輝\Desktop\zipcode1\zipcode1\obj\Debug\zipcode1.Properties.Resources.resources
+C:\Users\林俊輝\Desktop\zipcode1\zipcode1\obj\Debug\zipcode1.csproj.GenerateResource.cache
+C:\Users\林俊輝\Desktop\zipcode1\zipcode1\obj\Debug\zipcode1.csproj.CoreCompileInputs.cache
+C:\Users\林俊輝\Desktop\zipcode1\zipcode1\bin\Debug\zipcode1.exe.config
+C:\Users\林俊輝\Desktop\zipcode1\zipcode1\bin\Debug\zipcode1.exe
+C:\Users\林俊輝\Desktop\zipcode1\zipcode1\bin\Debug\zipcode1.pdb
+C:\Users\林俊輝\Desktop\zipcode1\zipcode1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\林俊輝\Desktop\zipcode1\zipcode1\bin\Debug\RestSharp.dll
+C:\Users\林俊輝\Desktop\zipcode1\zipcode1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\林俊輝\Desktop\zipcode1\zipcode1\bin\Debug\RestSharp.xml
+C:\Users\林俊輝\Desktop\zipcode1\zipcode1\obj\Debug\zipcode1.csproj.CopyComplete
+C:\Users\林俊輝\Desktop\zipcode1\zipcode1\obj\Debug\zipcode1.exe
+C:\Users\林俊輝\Desktop\zipcode1\zipcode1\obj\Debug\zipcode1.pdb
